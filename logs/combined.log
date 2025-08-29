@@ -1,0 +1,18 @@
+{"level":"info","message":"Connected to SQLite database","service":"appointment-system","timestamp":"2025-08-29T06:03:42.934Z"}
+{"level":"info","message":"Appointment System API running on port 3000","service":"appointment-system","timestamp":"2025-08-29T06:03:42.940Z"}
+{"level":"info","message":"Default admin user created","service":"appointment-system","timestamp":"2025-08-29T06:03:43.395Z"}
+{"level":"info","message":"Database initialization completed successfully","service":"appointment-system","timestamp":"2025-08-29T06:03:43.396Z"}
+{"level":"info","message":"Received shutdown signal, closing database connection...","service":"appointment-system","timestamp":"2025-08-29T06:09:27.067Z"}
+{"level":"info","message":"Database connection closed","service":"appointment-system","timestamp":"2025-08-29T06:09:27.070Z"}
+{"level":"info","message":"Connected to SQLite database","service":"appointment-system","timestamp":"2025-08-29T06:09:29.543Z"}
+{"level":"info","message":"Appointment System API running on port 3000","service":"appointment-system","timestamp":"2025-08-29T06:09:29.549Z"}
+{"level":"info","message":"Default admin user already exists","service":"appointment-system","timestamp":"2025-08-29T06:09:29.842Z"}
+{"level":"info","message":"Database initialization completed successfully","service":"appointment-system","timestamp":"2025-08-29T06:09:29.843Z"}
+{"level":"info","message":"Received shutdown signal, closing database connection...","service":"appointment-system","timestamp":"2025-08-29T06:10:48.095Z"}
+{"level":"info","message":"Database connection closed","service":"appointment-system","timestamp":"2025-08-29T06:10:48.097Z"}
+{"level":"info","message":"Connected to SQLite database","service":"appointment-system","timestamp":"2025-08-29T06:10:50.301Z"}
+{"level":"info","message":"Appointment System API running on port 3000","service":"appointment-system","timestamp":"2025-08-29T06:10:50.308Z"}
+{"level":"info","message":"Default admin user already exists","service":"appointment-system","timestamp":"2025-08-29T06:10:50.603Z"}
+{"level":"info","message":"Database initialization completed successfully","service":"appointment-system","timestamp":"2025-08-29T06:10:50.604Z"}
+{"level":"info","message":"Received shutdown signal, closing database connection...","service":"appointment-system","timestamp":"2025-08-29T06:12:44.035Z"}
+{"level":"info","message":"Database connection closed","service":"appointment-system","timestamp":"2025-08-29T06:12:44.038Z"}
