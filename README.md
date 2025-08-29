@@ -1,1 +1,1 @@
-# Demo-REST-API
+# REST API for API Security Practice
